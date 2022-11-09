@@ -1,0 +1,99 @@
+<name>Sun
+  <diameter>1,392,700 km</diameter>
+  <orbitalspeed>720,000 km/hr (around the centre of the Milky Way)</orbitalspeed>
+  <inclination>0 degrees</inclination>
+  <axialtilt>0 degrees</axialtilt>
+  <distfromsun>0 km</distfromsun>
+  <population>0</population>
+  <image>Sun.jpg</image>
+</name>
+
+<name>Mercury
+  <diameter>4,880 km</diameter>
+  <orbitalspeed>47.87 km/s</orbitalspeed>
+  <inclination>7.005 degrees</inclination>
+  <axialtilt>0.01 degrees</axialtilt>
+  <distfromsun>68,039,000 km</distfromsun>
+  <population>0</population>
+  <image>Mercury.jpg</image>
+</name>
+
+<name>Venus
+  <diameter>12,103.6 km</diameter>
+  <orbitalspeed>35.02 km/s</orbitalspeed>
+  <inclination>3.39471 degrees</inclination>
+  <axialtilt>177.36 degrees</axialtilt>
+  <distfromsun>107,680,000 km</distfromsun>
+  <population>0</population>
+  <image>Venus.jpg</image>
+</name>
+
+<name>Earth
+  <diameter>12,756.3 km</diameter>
+  <orbitalspeed>29.783 km/s</orbitalspeed>
+  <inclination>0 degrees</inclination>
+  <axialtilt>23.43 degrees</axialtilt>
+  <distfromsun>147,890,000 km</distfromsun>
+  <population>Approx. 7,900,000,000</population>
+  <image>Earth.jpg</image>
+</name>
+
+<name>Mars
+  <diameter>6,794 km</diameter>
+  <orbitalspeed>24.077 km/s</orbitalspeed>
+  <inclination>1.850 degrees</inclination>
+  <axialtilt>25.19 degrees</axialtilt>
+  <distfromsun>221,540,000 km</distfromsun>
+  <population>0</population>
+  <image>Mars.jpg</image>
+</name>
+
+<name>Jupiter
+  <diameter>142,984 km</diameter>
+  <orbitalspeed>13.07 km/s</orbitalspeed>
+  <inclination>1.305 degrees</inclination>
+  <axialtilt>3.13 degrees</axialtilt>
+  <distfromsun>745,740,000 km</distfromsun>
+  <population>0</population>
+  <image>Jupiter.jpg</image>
+</name>
+
+<name>Saturn
+  <diameter>120,536 km</diameter>
+  <orbitalspeed>9.69 km/s</orbitalspeed>
+  <inclination>2.49 degrees</inclination>
+  <axialtilt>26.73 degrees</axialtilt>
+  <distfromsun>1,480,000,000 km</distfromsun>
+  <population>0</population>
+  <image>Saturn.jpg</image>
+</name>
+
+<name>Uranus
+  <diameter>51,118 km</diameter>
+  <orbitalspeed>6.81 km/s</orbitalspeed>
+  <inclination>0.77 degrees</inclination>
+  <axialtilt>97.77 degrees</axialtilt>
+  <distfromsun>2,948,700,000 km</distfromsun>
+  <population>0</population>
+  <image>Uranus.jpg</image>
+</name>
+
+<name>Neptune
+  <diameter>49,532 km</diameter>
+  <orbitalspeed>5.43 km/s</orbitalspeed>
+  <inclination>1.77 degrees</inclination>
+  <axialtilt>28.32 degrees</axialtilt>
+  <distfromsun>4,474,600,000 km</distfromsun>
+  <population>0</population>
+  <image>Neptune.jpg</image>
+</name>
+
+<name>Pluto
+  <diameter>5,000 km</diameter>
+  <orbitalspeed>4.666 km/s</orbitalspeed>
+  <inclination>17.14 degrees</inclination>
+  <axialtilt>119.61 degrees</axialtilt>
+  <distfromsun>5,900,000,000 km</distfromsun>
+  <population>0</population>
+  <image>Pluto.jpg</image>
+</name>
