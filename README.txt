@@ -1,7 +1,4 @@
-Module: CS6116 - Mobile Multimedia
-Name: Eoghan O Riain - 111319036
-
-Application Title: Our Solar System
+Our Solar System - An iPhone Application
 
 Specifications: This application was developed using Xcode 13.2.1 and formatted for use on an iPhone 13 Pro.
 
